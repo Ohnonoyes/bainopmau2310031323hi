@@ -11,7 +11,7 @@ Hi some name!
 """
 
 def hi(name):
-  return f'Hi {name}!'
+  return f'Hi {name}'
 
 if __name__=='__main__':
   name = 'AI BTX'
